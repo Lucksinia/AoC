@@ -33,7 +33,7 @@ def meashure_wrapper(dim: list) -> int:
     return result
 
 
-with open("AdventOfCode2015/2.txt", "r") as f:
+with open("AdventOfCode2015/tasks/2.txt", "r") as f:
     res = []
     meashurments = f.readlines()
     for str in meashurments:

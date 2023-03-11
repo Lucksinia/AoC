@@ -20,7 +20,7 @@ To what floor do the instructions take Santa?
 # ? 1.txt is input file from task
 
 floor = 0
-with open("AdventOfCode2015/1.txt", "r") as f:
+with open("AdventOfCode2015/tasks/1.txt", "r") as f:
     bfs = f.read()
     for char in bfs:
         match char:

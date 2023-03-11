@@ -20,7 +20,7 @@ For example:
     ^v^v^v^v^v delivers a bunch of presents to some very lucky children at only 2 houses.
 
 """
-with open("AdventOfCode2015/3.txt") as f:
+with open("AdventOfCode2015/tasks/3.txt") as f:
     bfd = f.read()
     coords = [(0, 0)]  # houses
     santa_list = [0, 0]  # coordinates
