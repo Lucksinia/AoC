@@ -20,7 +20,7 @@ For example:
 How many strings are nice?
 """
 
-import re  # thanks https://regex101.com/ for powering me thoug them...
+import re  # thanks https://regex101.com/ for powering me through them...
 
 with open("AdventOfCode2015/tasks/5.txt") as f:
     lines = f.readlines()
