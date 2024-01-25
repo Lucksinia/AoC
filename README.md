@@ -1,15 +1,18 @@
 # AoC
+
 This is my Advent of Code solutions.
-### !My solutions contain only basic python modules!
+
+## !My solutions contain only basic python modules!
 
 ## Advent of Code progress:
+
 - [ ] AoC 2015:
   - [x] [Day 1](AdventOfCode2015/day_1_2015.py) --- Day 1: Not Quite Lisp ---
   - [x] [Day 2](AdventOfCode2015/day_2_2015.py) --- Day 2: I Was Told There Would Be No Math ---
   - [x] [Day 3](AdventOfCode2015/day_3_2015.py) --- Day 3: Perfectly Spherical Houses in a Vacuum ---
   - [x] [Day 4](AdventOfCode2015/day_4_2015.py) --- Day 4: The Ideal Stocking Stuffer ---
   - [x] [Day 5](AdventOfCode2015/day_5_2015.py) --- Day 5: Doesn't He Have Intern-Elves For This? ---
-  - [ ] Day 6 --- Day 6: Probably a Fire Hazard ---
+  - [x] [Day 6](AdventOfCode2015/day_6_2015.py) --- Day 6: Probably a Fire Hazard ---
   - [ ] Day 7 --- Day 7: Some Assembly Required ---
   - [ ] Day 8 --- Day 8: Matchsticks ---
   - [ ] Day 9 --- Day 9: All in a Single Night ---
