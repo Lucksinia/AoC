@@ -13,7 +13,7 @@ This is my Advent of Code solutions.
   - [x] [Day 4](AdventOfCode2015/day_4_2015.py) --- Day 4: The Ideal Stocking Stuffer ---
   - [x] [Day 5](AdventOfCode2015/day_5_2015.py) --- Day 5: Doesn't He Have Intern-Elves For This? ---
   - [x] [Day 6](AdventOfCode2015/day_6_2015.py) --- Day 6: Probably a Fire Hazard ---
-  - [x] Day 7 --- Day 7: Some Assembly Required ---
+  - [x] [Day 7](AdventOfCode2015/day_6_2015.py) --- Day 7: Some Assembly Required ---
   - [ ] Day 8 --- Day 8: Matchsticks ---
   - [ ] Day 9 --- Day 9: All in a Single Night ---
   - [ ] Day 10 --- Day 10: Elves Look, Elves Say ---
