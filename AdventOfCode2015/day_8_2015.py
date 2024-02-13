@@ -1,5 +1,5 @@
 inpt = None
-with open("AdventOfCode2015\тasks\8.txt") as f:
+with open("AdventOfCode2015/tasks/8.txt") as f:
     inpt = f.read().splitlines()  # for no newline characters
     # part one: just character literals
 print(first := sum(len(line) - len(eval(line)) for line in inpt))
